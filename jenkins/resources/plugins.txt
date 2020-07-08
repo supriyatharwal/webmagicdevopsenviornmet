@@ -2,3 +2,5 @@ git
 pipeline-model-definition
 maven-plugin
 pipeline-stage-view
+role-strategy
+sonar
